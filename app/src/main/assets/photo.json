@@ -1,0 +1,32 @@
+[
+  { "id" : 0,
+    "source_photo": "https://i.pinimg.com/564x/ee/43/bf/ee43bf7911c3c8ae4f6005a2fd270e37.jpg",
+    "title_photo": "Instagram",
+    "description_photo": "Instagram (thường được viết tắt là IG hoặc Insta) là một dịch vụ mạng xã hội chia sẻ hình ảnh và video của Mỹ được tạo ra bởi Kevin Systrom và Mike Krieger. Vào tháng 4 năm 2012, Facebook (nay là Meta) đã mua lại dịch vụ này với giá khoảng 1 tỷ đô la Mỹ bằng tiền mặt và cổ phiếu."
+  },
+  { "id" : 1,
+    "source_photo":"https://i.pinimg.com/564x/e3/0e/a1/e30ea1834672b38269b337390d76e535.jpg",
+    "title_photo": "Facebook",
+    "description_photo":  "Facebook là một phương tiện truyền thông xã hội và dịch vụ mạng xã hội trực tuyến thành lập vào năm 2004 của Mỹ thuộc sở hữu của Meta Platforms có trụ sở tại Menlo Park, California. Nó được Mark Zuckerberg, cùng với các sinh viên Đại học Harvard và bạn cùng phòng là Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, Chris Hughes sáng lập. Đây được coi là một trong những công ty công nghệ Big Four cùng với Amazon, Apple và Google"
+  },
+  { "id" : 2,
+    "source_photo":"https://i.pinimg.com/564x/f3/51/8f/f3518fe9a5266a5217d542cb890fbe80.jpg",
+    "title_photo": "Chrome",
+    "description_photo": "Google Chrome[14] là một trình duyệt web miễn phí, được phát triển bởi Google, sử dụng nền tảng V8 engine. Dự án mã nguồn mở đứng sau Google Chrome được biết với tên gọi Chromium."
+  },
+  { "id" : 3,
+    "source_photo":"https://i.pinimg.com/564x/0e/cc/7f/0ecc7f63948c574059ed1b2e59ae92e9.jpg",
+    "title_photo": "Tik Tok",
+    "description_photo": "TikTok là nền tảng video âm nhạc và mạng xã hội của Trung Quốc [2] được ra mắt vào năm 2017, dành cho các thị trường bên ngoài Trung Quốc.[3] bởi Trương Nhất Minh, người sáng lập của ByteDance."
+  },
+  { "id" : 4,
+    "source_photo":"https://i.pinimg.com/564x/b0/ad/e8/b0ade842615f62c0514083530a284cd9.jpg",
+    "title_photo": "Discord",
+    "description_photo": "Discord là một phần mềm miễn phí về phân phối kỹ thuật số, nhắn tin tức thời và VoIP.[10] Người dùng có thể giao tiếp bằng các cuộc gọi thoại, cuộc gọi video, tin nhắn văn bản, các phương tiện và tệp trong các cuộc trò chuyện riêng tư hoặc như một phần của cộng đồng được gọi là \\\"máy chủ\\\" (server).[a"
+  },
+  { "id" : 5,
+    "source_photo":"https://i.pinimg.com/564x/d4/74/c7/d474c7194e4a617b0c9d4d714a151098.jpg",
+    "title_photo": "Appstore",
+    "description_photo": "App Store\",\"App Store là nền tảng phân phối kỹ thuật số các ứng dụng, hay Chợ ứng dụng cho các thiết bị chạy hệ điều hành iOS, phát triển và duy trì bởi Apple Inc. Cửa hàng App Store cho phép người dùng tìm kiếm, tải xuống cũng như đánh giá các ứng dụng được phát triển bằng bộ phát triển phần mềm iOS và iPadOS của Apple."
+  }
+]
